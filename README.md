@@ -1,36 +1,21 @@
 # clj-sqlite
 
-FIXME: description
+This is a slightly more up to date example of how to interact with sqlite using clojure.
+
+I had some problems finding tutorials that weren't driven by the repl, so here's an example that's not.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+* Clone this repository
+* Install [Leiningen](https://leiningen.org/)
 
 ## Usage
 
-FIXME: explanation
+* From the repo directory run `lein run`.
+* Or use the code in `src/clj_sqlite/core.clj` and paste it into the lein repl.
 
-    $ java -jar clj-sqlite-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
 
 ## License
-
-Copyright © 2017 FIXME
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
