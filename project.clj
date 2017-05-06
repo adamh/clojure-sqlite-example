@@ -5,7 +5,7 @@
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [org.clojure/java.jdbc "0.6.1"]
-                 [org.xerial/sqlite-jdbc "3.16.1"]]
+                 [org.xerial/sqlite-jdbc "3.7.2"]]
   :main ^:skip-aot clj-sqlite.core
   :target-path "target/%s"
   :profiles {:uberjar {:aot :all}})
